@@ -77,6 +77,7 @@ Need Help?
 ----------
 
 If you run into issues, you can contact Lowe’s Credit Services (by Synchrony) at:  
+
 📞 1-800-444-1408
 
 My Experience Paying Online
@@ -88,18 +89,23 @@ FAQs
 ----
 
 1. **Where do I pay online?**  
+
    Go to https://lowes.syf.com
 
 2. **Do I need an account to pay?**  
+
    Yes, you must register and log in to make payments.
 
 3. **What payment methods are accepted?**  
+
    Only U.S. checking or savings accounts.
 
 4. **Can I schedule future payments?**  
+
    Yes, you can choose a payment date when paying online.
 
 5. **How long does it take to post?**  
+
    Usually 1–2 business days.
 
 Final Thoughts
