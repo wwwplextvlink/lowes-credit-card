@@ -30,7 +30,7 @@ html_short_title = "Pay Lowe’s Credit Card Online"
 html_favicon = 'favicon.ico'
 
 # Choose a theme (uncomment to enable)
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source" link
 html_show_sourcelink = False
